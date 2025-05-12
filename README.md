@@ -1,8 +1,8 @@
 42 Events Platform
 A comprehensive event management platform built for the 42 community. This application allows users to browse, register for, and manage events.
 
-Project info
-URL: https://lovable.dev/projects/02b6130a-874f-4bd1-ae15-1b26703b06f9 # 42hub.space
+Demo
+URL: [https://preview--event-sync-dynamic.lovable.app/dashboard](https://preview--event-sync-dynamic.lovable.app) 42hub.space
 
 Features
 User authentication with 42 OAuth and email/password
